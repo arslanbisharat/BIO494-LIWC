@@ -4,12 +4,14 @@
 LIWC (Linguistic Inquiry and Word Count) is a software tool that analyzes text to provide insights into the psychological state of the author. It categorizes words to reflect emotions, thinking styles, and social concerns​​.
 ### How LIWC Works
 LIWC compares words in a text with its built-in dictionaries, calculating the percentage of words matching each psychological category​​.
-<img width="958" alt="image" src="https://github.com/arslanbisharat/BIO494-LIWC/assets/58504655/d3e854ef-61f4-45e9-88ab-3ff0d5b743e2">
 
 ## Installation
 ### Purchase and Download
 - LIWC is a proprietary software. Purchase it from the official LIWC website.
 - Once purchased, download the installation file.
+<img width="960" alt="image" src="https://github.com/arslanbisharat/BIO494-LIWC/assets/58504655/40e5bb3d-6ec9-492b-8663-9e28cfb84aa3">
+
+
 
 ### Installing LIWC
 
