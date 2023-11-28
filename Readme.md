@@ -91,3 +91,59 @@ LIWC compares words in a text with its built-in dictionaries, calculating the pe
 #### Incorrect Data Display
 - If the data doesn't display correctly in the preview, check for extra spaces, unusual characters, or formatting issues in your original file.
 
+## Running a Basic Analysis in LIWC
+
+## Selecting Dictionary and Categories
+### Choosing a Dictionary
+
+- LIWC comes with a set of built-in dictionaries suitable for various types of analyses.
+- Navigate to the Dictionary selection area. Here, you can choose the dictionary that aligns with your analysis goals (e.g., LIWC2015, LIWC2007).
+- If you have custom dictionaries or specific research needs, you can also load these here.
+
+### Selecting Categories for Analysis
+
+ - Within the chosen dictionary, LIWC categorizes words into various psychological, linguistic, and thematic categories.
+- Go to the Categories section. Here, you can select or deselect categories relevant to your analysis, such as emotions, social processes, cognitive processes, etc.
+- Take time to understand what each category represents to make informed selections.
+
+## Starting the Analysis
+
+### Initiating the Analysis
+
+- Once you've selected your dictionary and categories, look for the 'Run Analysis' button. It might be located in a prominent place on the interface.
+- Click this button to start the analysis process. LIWC will begin processing your imported texts based on the selected parameters.
+
+### Monitoring the Analysis Process
+
+- Depending on the size of your dataset, the analysis may take from a few seconds to several minutes.
+- LIWC might display a progress bar or notifications indicating the status of the analysis.
+
+### Completing the Analysis
+
+- Once the analysis is complete, LIWC will display the results.
+- The results typically include a breakdown of the text based on the selected categories, shown as percentages or frequency counts.
+
+## Understanding the Initial Results
+
+### Interpreting Basic Output
+
+- The initial results will give you an overview of the linguistic and psychological characteristics of your text.
+- For example, you might see percentages indicating the prevalence of emotional language, social references, cognitive processes, etc.
+
+### Navigating the Results Interface
+
+- Familiarize yourself with how results are presented. This may include charts, graphs, or tables.
+- Look for options to dive deeper into specific categories or to compare different texts or datasets.
+
+### Saving and Exporting Results
+
+- LIWC allows you to save or export your analysis results. This can be done in various formats like CSV or PDF.
+- Consider saving your results for further analysis or for inclusion in reports or presentations.
+
+## Next Steps
+### Further Analysis
+
+- Based on your initial results, you may want to refine your analysis by adjusting categories or exploring additional features of LIWC.
+
+### Comparative Analysis
+- You might also consider running comparative analyses if you have multiple datasets or want to observe trends over time.
