@@ -100,19 +100,23 @@ LIWC compares words in a text with its built-in dictionaries, calculating the pe
 
 - LIWC comes with a set of built-in dictionaries suitable for various types of analyses.
 - Navigate to the Dictionary selection area. Here, you can choose the dictionary that aligns with your analysis goals (e.g., LIWC2015, LIWC2007).
+<img width="960" alt="image" src="https://github.com/arslanbisharat/BIO494-LIWC/assets/58504655/8623da88-6242-48c0-a112-5352ab7cb4dd">
+
 - If you have custom dictionaries or specific research needs, you can also load these here.
+<img width="957" alt="image" src="https://github.com/arslanbisharat/BIO494-LIWC/assets/58504655/81852927-51cb-4170-a3d0-914b2b3a7e7e">
 
 ### Selecting Categories for Analysis
 
  - Within the chosen dictionary, LIWC categorizes words into various psychological, linguistic, and thematic categories.
 - Go to the Categories section. Here, you can select or deselect categories relevant to your analysis, such as emotions, social processes, cognitive processes, etc.
 - Take time to understand what each category represents to make informed selections.
+<img width="958" alt="image" src="https://github.com/arslanbisharat/BIO494-LIWC/assets/58504655/99e0c04e-1e5f-4364-a4b8-b3466f960b33">
 
 ## Starting the Analysis
 
 ### Initiating the Analysis
 
-- Once you've selected your dictionary and categories, look for the 'Run Analysis' button. It might be located in a prominent place on the interface.
+- Once you've selected your dictionary and categories, look for the 'Run LIWC' button. It is located in a prominent place on the interface.
 - Click this button to start the analysis process. LIWC will begin processing your imported texts based on the selected parameters.
 
 ### Monitoring the Analysis Process
@@ -124,6 +128,7 @@ LIWC compares words in a text with its built-in dictionaries, calculating the pe
 
 - Once the analysis is complete, LIWC will display the results.
 - The results typically include a breakdown of the text based on the selected categories, shown as percentages or frequency counts.
+<img width="960" alt="image" src="https://github.com/arslanbisharat/BIO494-LIWC/assets/58504655/dd8de5b4-869b-4757-9999-771757ca54e7">
 
 ## Understanding the Initial Results
 
